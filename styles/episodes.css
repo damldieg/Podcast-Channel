@@ -1,0 +1,48 @@
+/* font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'IBM Plex Mono', monospace;
+*/
+
+.episodios{
+    background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
+    margin-top: 24px;
+    height: 900px;
+    position: relative;
+    clip-path: polygon(0 4%, 100% 0%, 100% 95%, 0% 100%);
+}
+
+.episodios h1{
+    margin-left: 16px;
+    padding-top: 64px;
+    margin-bottom: 21px;
+    font-family: 'IBM Plex Sans';
+    font-size: 36px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 42px;
+}
+
+.contenedor-episodio{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.episodio{
+    width: 298px;
+    margin-bottom: 11px;
+    margin-left: 11px;
+    margin-right: 11px;
+    
+}
+
+
+.contenedor-imagen{
+    align-content: center;
+}
+
+.imagen-sup{
+    position: absolute;
+    width: 320px;
+    height: 500px;
+    align-content: center;
+}
+

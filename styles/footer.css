@@ -1,0 +1,22 @@
+.copyright{
+    font-family: 'IBM Plex Mono';
+    font-size: 14px;
+    color: #060A24;
+    letter-spacing: 0;
+    line-height: 22px;
+    padding: 24px 0 24px 30px;
+}
+
+.redes{
+    display: inline;
+    list-style: none;
+}
+
+.fab{
+    display: table;
+    padding: 16px 19px 16px 19px;
+    font-size: 16px;
+    color: #060A24;
+    letter-spacing: 0;
+    line-height: 28px;
+}

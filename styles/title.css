@@ -1,0 +1,44 @@
+/* font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'IBM Plex Mono', monospace;
+*/
+
+.titulo h1{
+    font-family: 'IBM Plex Sans';
+    font-size: 36px;
+    color: #060A24;
+    letter-spacing: 0;
+    line-height: 42px;
+    margin-left: 16px;
+    margin: 16px;
+    text-align: justify;
+    font-weight: 600px;
+}
+
+.titulo p{
+    font-family: 'IBM Plex Mono';
+    font-size: 14px;
+    color: #060A24;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 36px;
+    text-align: justify;
+    font-weight: bolder;
+}
+
+.titulo input{
+    background: #00F3BB;
+    width: 288px;
+    height: 48px;
+    opacity: 100%;
+    font-family: 'IBM Plex Mono';
+    font-size: 16px;
+    color: #060A24;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 22px;
+    margin-left: 16px;
+    margin-right: 16px;
+    font-weight: bolder;
+}
